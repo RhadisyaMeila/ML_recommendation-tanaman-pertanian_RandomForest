@@ -46,7 +46,8 @@ fitur paling berpengaruh terhadap rekomendasi
 Distribusi jumlah sampel per jenis tanaman
 <img width="1484" height="584" alt="distribusi jumlah sampel per jenis tanaman" src="https://github.com/user-attachments/assets/543c0d63-604d-4496-b252-2d5d70b3847c" />
 Confusion matrix rekomendai tanaman
-   <img width="473" height="402" alt="image" src="https://github.com/user-attachments/assets/a2a79247-d87a-426e-8091-a684f8b8a19f" />
+
+<img width="473" height="402" alt="image" src="https://github.com/user-attachments/assets/a2a79247-d87a-426e-8091-a684f8b8a19f" />
 
 
 # Data Preparation
