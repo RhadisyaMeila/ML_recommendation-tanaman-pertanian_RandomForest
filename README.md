@@ -91,6 +91,6 @@ Sistem rekomendasi tanaman ini berhasil dikembangkan dengan akurasi tinggi (99,3
 <img width="959" height="468" alt="ML_rec-tanaman-pertanian_RandomForest_hasil" src="https://github.com/user-attachments/assets/4e4ccbc9-c627-4579-b393-5bed09d19df8" />
 
 
-#Deployment
+# Deployment
 1. Model Export: Model dan objek scaler disimpan dalam format .pkl (model_rf.pkl & scaler.pkl).
 2. Implementasi: Sistem telah di-deploy pada platform Hugging Face Spaces, memungkinkan pengguna untuk mendapatkan rekomendasi secara real-time.
