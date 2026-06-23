@@ -40,8 +40,7 @@ print(df.info())
 print("\nJumlah Missing Values per Kolom:")
 print(df.isnull().sum())
 ```
-fitur paling berpengaruh terhadap rekomendasi
-<img width="984" height="583" alt="Feature Importance (fitur palin berpengaruh terhadap rekomendasi)" src="https://github.com/user-attachments/assets/96527a01-3d47-4d0c-8640-d013d43e9294" />
+
 
 Distribusi jumlah sampel per jenis tanaman
 <img width="1484" height="584" alt="distribusi jumlah sampel per jenis tanaman" src="https://github.com/user-attachments/assets/543c0d63-604d-4496-b252-2d5d70b3847c" />
@@ -83,6 +82,9 @@ grid_search.fit(X_train_scaled, y_train)
 2. Klasifikasi: Nilai precision, recall, dan f1-score rata-rata sebesar 0.99, menunjukkan performa yang sangat stabil.
 3. Analisis: Fitur lingkungan (kelembapan dan curah hujan) memiliki pengaruh signifikan dalam penentuan rekomendasi tanaman.
 <img width="1467" height="1183" alt="confusion matrix - sistem rekomendasi tanaman" src="https://github.com/user-attachments/assets/00d1f78e-ad8e-4820-84b0-61e42e0588c0" />
+
+fitur paling berpengaruh terhadap rekomendasi
+<img width="984" height="583" alt="Feature Importance (fitur palin berpengaruh terhadap rekomendasi)" src="https://github.com/user-attachments/assets/96527a01-3d47-4d0c-8640-d013d43e9294" />
 
 
 # Kesimpulan & Deployment
